@@ -1,4 +1,4 @@
-# Project overview
+# Project overview (1.0.0)
 
 ## Running the project
 
