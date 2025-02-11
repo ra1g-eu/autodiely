@@ -16,12 +16,12 @@
 
 ## Creating a car:
 
-https://ra1g.eu/autodiely/creating_car.mp4
+[https://ra1g.eu/autodiely/creating_car.mp4](https://github.com/user-attachments/assets/4e48ee62-a559-4238-8183-24de51ffbcde)
 
 ## Updating a part
 
-https://ra1g.eu/autodiely/updating_part.mp4
+https://github.com/user-attachments/assets/6038379a-abe8-4e77-b829-b2a903560544
 
 ## Deleting a car
 
-https://ra1g.eu/autodiely/deleting_car.mp4
+https://github.com/user-attachments/assets/08d4cf20-1791-49cc-906e-3d93b4cf7e9c
