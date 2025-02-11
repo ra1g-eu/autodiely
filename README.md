@@ -16,24 +16,24 @@
 
 ## Creating a car:
 
-![](creating_car.mp4)
+![](https://ra1g.eu/autodiely/creating_car.mp4)
 
 <video controls>
-  <source src="./creating_car.mp4" type="video/mp4">
+  <source src="https://ra1g.eu/autodiely/creating_car.mp4" type="video/mp4">
 </video>
 
 ## Updating a part
 
-![](updating_part.mp4)
+![](https://ra1g.eu/autodiely/updating_part.mp4)
 
 <video controls>
-  <source src="./updating_part.mp4" type="video/mp4">
+  <source src="https://ra1g.eu/autodiely/updating_part.mp4" type="video/mp4">
 </video>
 
 ## Deleting a car
 
-![](deleting_car.mp4)
+![](https://ra1g.eu/autodiely/deleting_car.mp4)
 
 <video controls>
-  <source src="./deleting_car.mp4" type="video/mp4">
+  <source src="https://ra1g.eu/autodiely/deleting_car.mp4" type="video/mp4">
 </video>
